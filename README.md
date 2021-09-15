@@ -4,7 +4,7 @@
 This repo contains an activity to run using micro:bit v2. iceBreaker inside of the microbit folder should be uploaded for each participant. One micro:bit should be uploaded masterIce and it should be connected to a server computer through USB. On the server computer, after adjusting the USB serial name of the micro:bit on the server.py, from the terminal run node server.js and look at a Chrome browser at the page http://localhost:5000
 
 ## Description
-Participants will be assigned in radio groups randomly and they need to find each other.  The "game" consists initially in filling in the whole screen by shaking the board. By pressing A, you let others find you. By pressing B, you let the counters reset. (
+Participants will be assigned in radio groups randomly and they need to find each other.  The "game" consists initially in filling in the whole screen by shaking the board. By pressing A, you let others find you. By pressing B, you let the counters reset. 
 
 ## Notes for the instructor
 
